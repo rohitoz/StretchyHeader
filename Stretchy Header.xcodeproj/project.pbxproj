@@ -16,6 +16,7 @@
 		588899782521C84E00BEE162 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 588899762521C84E00BEE162 /* LaunchScreen.storyboard */; };
 		588899832521C84E00BEE162 /* Stretchy_HeaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 588899822521C84E00BEE162 /* Stretchy_HeaderTests.swift */; };
 		5888998E2521C84E00BEE162 /* Stretchy_HeaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5888998D2521C84E00BEE162 /* Stretchy_HeaderUITests.swift */; };
+		5888999C2521D11F00BEE162 /* CustomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5888999B2521D11F00BEE162 /* CustomTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		588899892521C84E00BEE162 /* Stretchy HeaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Stretchy HeaderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5888998D2521C84E00BEE162 /* Stretchy_HeaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stretchy_HeaderUITests.swift; sourceTree = "<group>"; };
 		5888998F2521C84E00BEE162 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5888999B2521D11F00BEE162 /* CustomTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				588899682521C84B00BEE162 /* AppDelegate.swift */,
 				5888996A2521C84B00BEE162 /* SceneDelegate.swift */,
 				5888996C2521C84B00BEE162 /* ViewController.swift */,
+				5888999B2521D11F00BEE162 /* CustomTableViewController.swift */,
 				5888996E2521C84B00BEE162 /* Main.storyboard */,
 				588899742521C84E00BEE162 /* Assets.xcassets */,
 				588899762521C84E00BEE162 /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				588899692521C84B00BEE162 /* AppDelegate.swift in Sources */,
 				588899732521C84B00BEE162 /* Stretchy_Header.xcdatamodeld in Sources */,
 				5888996B2521C84B00BEE162 /* SceneDelegate.swift in Sources */,
+				5888999C2521D11F00BEE162 /* CustomTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
